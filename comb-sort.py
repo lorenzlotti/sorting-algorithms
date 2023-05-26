@@ -43,6 +43,3 @@ combSort(arr)
 print ("Array ordenado:")
 for i in range(len(arr)):
 	print (arr[i],end=" ")
-
-
-# This code is contributed by Mohit Kumra
